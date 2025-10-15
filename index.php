@@ -2,8 +2,8 @@
 // Inicializa o contador de movimentos
 $contadorMovimentos = 0;
 
-// Array com os movimentos em ordem
-$movimentos = ["➡️ Direita", "⬅️ Esquerda", "⬆️ Reto"];
+// Array com os dois movimentos
+$movimentos = ["➡️ Direita", "⬅️ Esquerda"];
 
 // Loop contínuo de movimentos
 while (true) {
